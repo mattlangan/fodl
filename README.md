@@ -7,6 +7,9 @@
 - [@OlympicDart on Twitter](https://twitter.com/olympicdart)
 - [FODartLeague on Twitch](https://twitch.tv/fodartleague)
 - Players on Twitter:
+  - [The Accountant](https://twitter.com/EStalcup1)
+  - [The Author](https://twitter.com/TheAuthor180)
+  - [Beef Easy](https://twitter.com/ferrarobrandon)
   - [Bud the Chud](https://twitter.com/chadreep)
   - [The Criminal](https://twitter.com/TheCriminal180)
   - [Dilly Dilly](https://twitter.com/ImDillonParadis)
@@ -15,6 +18,7 @@
   - [Lazer Cat](https://twitter.com/mattlangan)
   - [Liberty Fires](https://twitter.com/FiresLiberty)
   - [The Lush](https://twitter.com/MarkRyba2nd)
+  - [Mac Attack](https://twitter.com/GoskinsVT)
   - [Pepe Le](https://twitter.com/sfpugh)
   - [Radar](https://twitter.com/RobsGonnaRob)
   - [Red Rascal](https://twitter.com/ZPriceIsRight)
