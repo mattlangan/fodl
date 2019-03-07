@@ -17,6 +17,7 @@
   - [The Lush](https://twitter.com/MarkRyba2nd)
   - [Pepe Le](https://twitter.com/sfpugh)
   - [Radar](https://twitter.com/RobsGonnaRob)
+  - [Red Rascal](https://twitter.com/ZPriceIsRight)
   - [Scooter McGooch](https://twitter.com/ScooterMcGooch)
   - [The Surgeon](https://twitter.com/pitz2)
   - [Triple T](https://twitter.com/Tony_Fontana)
