@@ -5,7 +5,7 @@ This guide provides instructions for broadcasting live dart matches on Twitch.
 ## Requirements for Players
 
 - [Skype](https://www.skype.com/en/get-skype/) (free account required)
-  The link above provides downloads for Desktop, Mobile, and Tablet apps
+  The link above provides downloads for Desktop, Mobile, and Tablet apps. 
 - A stable internet connection with uploads speeds of at least 1Mbps
 - Suggested equipment:
   - Webcam - Unless you're using a phone/tablet we recommend using a webcam over a laptop camera for players streaming from their computer. The [Logitech C615 ($31.99 on Amazon)](https://www.amazon.com/gp/product/B004YW7WCY/) has worked well for us.
