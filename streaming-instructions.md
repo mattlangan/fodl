@@ -9,6 +9,10 @@ These instruction assume you have reviewed the [Streaming Requirements](streamin
 3. Scoreboard
 4. Commentator audio
 
+## Getting the Brand Assets
+
+Send The Surgeon a message on Slack asking for an invitation to the [Dropbox folder](https://www.dropbox.com/sh/tbl8ewymilvynmj/AACpJw6XKii8bK5VUgCpJVewa?dl=0) that contains all of the FODL graphics.
+
 ## Setting up OBS
 
 ## Setting up Skype
