@@ -36,7 +36,7 @@ Once you're ready to coordinate a day and time with your opponent you should sen
 
 DartConnect is a web application you run from a browser like Safari, Chrome, or Silk. To access the scoreboard, either as the Home or Guest player, you must sign in to your account at [app.dartconnect.com](https://app.dartconnect.com) (not dartconnect.com).
 
-If you are the Home player (player who has the darts) then it is your responsibility to configure the match. Refer to the [DartConnect video tutorial](https://www.youtube.com/watch?v=iSB7p7SQ9XQ&feature=youtu.be) for instructions.
+If you are the Home player (player who has the darts) then it is your responsibility to configure the match. Refer to the [DartConnect video tutorial](https://photos.app.goo.gl/zSpDgZiby45rBAFN7) for instructions.
 
 If you are the away play you will be provided a Connect Code by your opponent. Instructions for joining as a guest are covered in the match video above.
 
