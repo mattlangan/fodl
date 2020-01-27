@@ -24,6 +24,8 @@ Once your DartConnect and Discord accounts are created you need to email the fol
 
 Season standings, results, and schedules are available in the Google Sheet. In each Division's schedule tab you can find your weekly matchups. An asterisk beside a player's name indicates they have the darts in the match (we do not shoot for Bull). The Sheet is typically updated daily with the latest match results and Bonus Points for the week. Bonus Points are only added to the overall Division leaderboards once all matches have been played for that gameweek.
 
+:warning: **Note:** The Google Sheet will not be available until a couple of weeks before the start of the season.
+
 ## Preseason Onboarding
 
 ### Add your division as Friends on Discord
