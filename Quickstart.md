@@ -24,6 +24,32 @@ Once your DartConnect and Discord accounts are created you need to email the fol
 
 Season standings, results, and schedules are available in the Google Sheet. In each Division's schedule tab you can find your weekly matchups. An asterisk beside a player's name indicates they have the darts in the match (we do not shoot for Bull). The Sheet is typically updated daily with the latest match results and Bonus Points for the week. Bonus Points are only added to the overall Division leaderboards once all matches have been played for that gameweek.
 
+## Preseason Onboarding
+
+### Add your division as Friends on Discord
+
+Before your season begins it's important that you're Friends with each of the players in your division, as well as with the broadcast booth. Discord IDs are accessible in your season's Schedule tab in the Google Sheet. They are in the form of  `MyUsername#1234`. Use that full string when sending your Friend Requests.
+
+### Set up Slack
+
+When setting up your Slack profile be sure to set your Name as your full name, and your Display Name as your darts nickname.
+
+The next thing you'll want to do is configure your Channel subscriptions.
+
+**Standard Channels:**
+
+- \#darts: Chat about darts gear, solicit people for scrimmage matches, wax philosophical about PDC announcements, and debate checkout strategies
+- \#random: Off-topic discussion that often revolves around music, EPL, and cycling (during the Tour de France) 
+- \#general: Different than darts and random in some way that I can't describe
+- \#scheduling: One player from each match announces their match time for the week once it's been decided upon
+
+**Other Channels:**
+
+- \#spoilers: Live chat about PDC events and live sporting events (do not post spoilers in any other channel!)
+- \#casting: Broadcsting-specific discussions such as caster schedules, hardware, and the Twitch platform
+- \#dukes: Madison, James Madison, We are the Dukes of JMU
+- Other channels are discoverable in your Slack application.
+
 ## Scheduling
 
 Once you're ready to coordinate a day and time with your opponent you should send them a Direct Message on Slack. Post your match day and time in the `#scheduling` channel on Slack, being sure to mention your opponent and `@The Surgeon` so that everyone sees it. For example,
