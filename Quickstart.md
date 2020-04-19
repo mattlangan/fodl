@@ -92,3 +92,15 @@ There are some additional points of mention for matches being broadcast on Twitc
 - If your video stream is having issues, disable and then re-enable your camera in the Discord call. Do not leave and then re-join the call, as that will mess up the Discord view for your opponent and for the broadcast booth.
 - Depending on your lighting environment, you may wish to install additional software for your video camera (if running on a computer) in order to adjust contrast, saturation, and color levels. It is strongly recommend that you test camera settings with a broadcaster ahead of your first match if you are unsure of your video quality.
 - Sometimes Discord has connectivity problems. If you're having trouble connecting to a call you may want to restart Discord, or restart your computer, and then try to join again.
+=======
+If you are the Home player (player who has the darts) then it is your responsibility to configure the match. Refer to The Criminal's [DartConnect video tutorials](https://photos.app.goo.gl/zSpDgZiby45rBAFN7) for detailed instructions.
+
+If you are the away player you will be provided a Connect Code by your opponent. Instructions for joining as a guest are covered in the match video above.
+
+### Streaming
+
+All FODL matches should be played on Discord, even if they are not being broadcast on Twitch. In order to minimize potential technical issues we recommend players take the following steps:
+
+- Ensure your streaming device can handle the demands of a 45-minute Discord call without encountering any audio or video disruptions
+- If streaming from a phone, ensure that a power source is available or that your battery can last long enough
+- Ensure your Internet connection _on your device_ is delivering at _least_ 1Mbps Up and 3Mbps down (5-10Mbps up preferred)
